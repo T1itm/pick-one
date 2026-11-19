@@ -40,7 +40,7 @@ Types: `feat`, `fix`, `docs`, `test`, `refactor`, `style`, `chore`
 - Fill in every section of the pull request template.
 - Write `Closes #<issue-number>` in the description so the issue closes automatically when merged.
 - One pull request should solve **one issue**. Split large changes into smaller pull requests.
-- Before opening a pull request, update your branch with the latest `main` and test your change in the browser.
+- - Before opening a pull request, update your branch with the latest `main` and run the app locally to test your change.
 
 ## 5. Review rules
 - A pull request needs **at least one approval from a teammate other than the author** before it can be merged.
