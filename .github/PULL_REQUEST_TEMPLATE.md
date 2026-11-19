@@ -22,8 +22,8 @@ Closes #
 ## Checklist
 - [ ] My branch name follows the rules (`feat/<issue-number>-<description>`)
 - [ ] I updated my branch with the latest `main`
-- [ ] I tested the change in the browser
-- [ ] Tests pass (if applicable)
+- [ ] I ran the app locally and tested the change
+- [ ] `pytest` passes
 - [ ] I can explain every line of code I submitted
 
 ## AI usage
